@@ -1,9 +1,9 @@
-print ("Git is awesome!")
+print ("Git is awesome!") # Modified hello world message from task 1 
 
-# Modified helloWorld.py
+# New Feature to ask user to enter their name 
 user_name = input("Enter your name: ")
 print("Hello,", user_name + "!")
 
-# Modified helloWorld.py
+# New feature to ask for user input from task 2
 user_input = input("Enter your message: ")
 print("You entered:", user_input)
